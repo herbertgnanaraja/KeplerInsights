@@ -20,10 +20,10 @@ Predict classification of KOI from Kepler data (exoplanet candidate or false pos
 * Dataset with 82 features, 9564 instances
   * Identification Columns, Exoplanet Archive Information, Project Disposition Columns
   * Transit Properties, Threshold-Crossing Event (TCE) Information, Stellar Parameters, Kepler Input Catalog (KIC) Parameters, Pixel-Based KOI Vetting Statistics
- * Plot scatter matrix of features to evaluate data distributions, trends and understand relationship with other features
+* Plot scatter matrix of features to evaluate data distributions, trends and understand relationship with other features
   * Mix of distributions: majority left/right skewed, some normally distributed
   * Some outliers observed
- * Plot correlation to identify redundant features
+* Plot correlation to identify redundant features
   * High correlation found in subset of features
   
  ## Data source and acknowledgement:
